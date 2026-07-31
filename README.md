@@ -17,13 +17,6 @@ This project connects to **MS SQL Server** as the data source and uses **Power B
 - **MS SQL Server** – Data storage and querying
 - **Power BI** – Data modeling, DAX calculations, and dashboard design
 
-## 📈 Dashboard Preview
-
-### Home / Sales Performance View
-![Pizza Sales Dashboard - Home](images/pizza_dashboard-1.jpg)
-
-### Best & Worst Sellers View
-![Pizza Sales Dashboard - Best/Worst Sellers](images/pizza_dashboard-2.jpg)
 
 ## 🔍 Key Insights
 
